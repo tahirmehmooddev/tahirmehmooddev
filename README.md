@@ -1,38 +1,122 @@
 # Hi, I'm Tahir Mehmood 👋
 
-**AI-Assisted Web & App Product Developer**
+### AI-Assisted Web & App Product Developer
+**Founder — QuickLive Studio | Founder — The Blood Donor Kallar Syedan (TBDKS)**
 
-I build practical digital solutions through thoughtful planning, AI-assisted development, testing, and continuous improvement.
+I transform practical ideas into digital solutions through structured planning, AI-assisted development, testing, and deployment.
 
-My focus is on creating useful web applications, Android apps, and business management tools that solve real-world problems.
+My focus is on building useful websites, web applications, Android applications, and business management systems that solve real-world problems.
 
-### What I Work On
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-6D4AFF?style=for-the-badge)](https://tahirmehmood.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tahirmehmooddev)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-334155?style=for-the-badge&logo=gmail)](mailto:tahirmehmood.dev@gmail.com)
 
-- Web Applications & Websites
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Founder of **QuickLive Studio**, providing custom digital solutions for businesses.
+- ❤️ Founder of **The Blood Donor Kallar Syedan (TBDKS)**, a community blood donor organization established in 2020.
+- 🧠 Focused on **AI-assisted product development**, requirements planning, implementation coordination, testing, and continuous improvements.
+- 💼 Interested in business automation, management portals, Android applications, and practical software tools.
+- 🌍 Based in Pakistan, working on digital solutions for local and international needs.
+
+---
+
+## 🚀 Featured Projects
+
+### 🩸 The Blood Donor Kallar Syedan (TBDKS)
+
+**Founder | Community & Digital Platform**
+
+A volunteer-driven blood donor organization supporting the community through donor coordination and digital services.
+
+**Digital Solutions**
+- Official responsive website
+- Android application
+- Blood donor and community services
+- Digital information and engagement features
+
+🌐 **Website:** https://tbdks.com
+
+### 🏢 QuickLive Studio
+
+**Founder | Software & Digital Solutions**
+
+A digital solutions venture focused on helping businesses improve operations with accessible technology.
+
+**Services**
+- Custom Websites & Web Applications
 - Android Applications
-- Business Management Software
-- Digital Solutions & Automation
-- AI-Assisted Product Development
+- Shop & Business Management Software
+- Workflow Automation
+- Digital Business Setup & Branding
 
-### Projects & Ventures
+🌐 **Founder Portfolio:** https://tahirmehmood.com
 
-**[The Blood Donor Kallar Syedan (TBDKS)](https://tbdks.com)**  
-Founder | Community blood donor organization with an official website and Android application.
+### 📊 Tayyab CCTV Camera Portal
 
-**QuickLive Studio**  
-Founder | Custom software, websites, business management systems, and digital solutions.
+**Business Management Web Application**
 
-**Tayyab CCTV Camera Portal**  
-Custom shop management system for billing, inventory, customer accounts, and business operations.
+A customized management solution designed around day-to-day shop operations.
 
-### Tools & Workflow
+**Core Features**
+- Sales and Billing
+- Product and Inventory Management
+- Customer Accounts and Credit Tracking
+- Income and Expense Management
+- Staff and Administrative Workflows
+- Firebase-Based Data Management
 
-JavaScript · TypeScript · Firebase · Git & GitHub · Cloudflare · AI Development Tools
+*Custom business software project.*
 
-### Connect With Me
+---
 
-- **Portfolio:** [tahirmehmood.com](https://tahirmehmood.com)
-- **Email:** tahirmehmood.dev@gmail.com
-- **GitHub:** [@tahirmehmooddev](https://github.com/tahirmehmooddev)
+## 🛠️ Technology & Tools
 
-*Building useful software, one project at a time.*
+### Web & Application Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1E293B?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-1E293B?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1E293B?style=flat-square&logo=css)
+
+### Platforms & Infrastructure
+
+![Firebase](https://img.shields.io/badge/Firebase-1E293B?style=flat-square&logo=firebase)
+![GitHub](https://img.shields.io/badge/GitHub-1E293B?style=flat-square&logo=github)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1E293B?style=flat-square&logo=cloudflare)
+![Android](https://img.shields.io/badge/Android-1E293B?style=flat-square&logo=android)
+
+### Development Approach
+
+**Requirements Planning → UI/UX Direction → AI-Assisted Implementation → Testing & Validation → Deployment → Continuous Improvement**
+
+I focus on translating real business requirements into workable products while using AI-powered development tools and modern platforms throughout the development lifecycle.
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahirmehmooddev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirmehmooddev&layout=compact&theme=tokyonight&hide_border=true)
+
+*Statistics are generated by third-party services and may occasionally be unavailable.*
+
+---
+
+## 🤝 Connect With Me
+
+- 🌐 **Portfolio:** https://tahirmehmood.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/tahirmehmooddev
+- 📘 **Facebook:** https://facebook.com/tahirmehmooddev
+- 📸 **Instagram:** https://www.instagram.com/tahirmehmooddev/
+- 📧 **Email:** tahirmehmood.dev@gmail.com
+- 💻 **GitHub:** https://github.com/tahirmehmooddev
+
+---
+
+### Building Practical Digital Solutions, One Project at a Time.
+
+**QuickLive Studio — Smart Software. Smarter Business.**
