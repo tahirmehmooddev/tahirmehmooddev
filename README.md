@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Tahir Mehmood 👋
 
-<!--
-**tahirmehmooddev/tahirmehmooddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI-Assisted Web & App Product Developer**
 
-Here are some ideas to get you started:
+I build practical digital solutions through thoughtful planning, AI-assisted development, testing, and continuous improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on creating useful web applications, Android apps, and business management tools that solve real-world problems.
+
+### What I Work On
+
+- Web Applications & Websites
+- Android Applications
+- Business Management Software
+- Digital Solutions & Automation
+- AI-Assisted Product Development
+
+### Projects & Ventures
+
+**[The Blood Donor Kallar Syedan (TBDKS)](https://tbdks.com)**  
+Founder | Community blood donor organization with an official website and Android application.
+
+**QuickLive Studio**  
+Founder | Custom software, websites, business management systems, and digital solutions.
+
+**Tayyab CCTV Camera Portal**  
+Custom shop management system for billing, inventory, customer accounts, and business operations.
+
+### Tools & Workflow
+
+JavaScript · TypeScript · Firebase · Git & GitHub · Cloudflare · AI Development Tools
+
+### Connect With Me
+
+- **Portfolio:** [tahirmehmood.com](https://tahirmehmood.com)
+- **Email:** tahirmehmood.dev@gmail.com
+- **GitHub:** [@tahirmehmooddev](https://github.com/tahirmehmooddev)
+
+*Building useful software, one project at a time.*
